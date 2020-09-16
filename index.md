@@ -1,12 +1,12 @@
 # MTFuzz: Fuzzing with a Multi-Task Neural Network
 
-### Framework
+## Framework
 ![image](https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png)
 
-### Intro
+## Intro
 MTFuzz is a novel neural network assisted fuzzer based on multi-task learning technique. It uses a NN to learn a compact embedding of input file for multiple fuzzing tasks (i.e., predicting different types of code coverage). The compact embedding is used to guide effective mutation by focusing on hot bytes. Our results show MTFuzz uncovers 11 previously unseen bugs and achieves an average of 2x more edge coverage compared with 5 state-of-the-art fuzzers on 10 real-world programs.
 
-### Cite as
+## Cite as
 ```
 @article{she2020mtfuzz,
   title={MTFuzz: Fuzzing with a Multi-Task Neural Network},
@@ -21,18 +21,6 @@ MTFuzz is a novel neural network assisted fuzzer based on multi-task learning te
 Published in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2020. 
 
 ARXIV Link: [https://arxiv.org/pdf/2005.12392.pdf](https://arxiv.org/pdf/2005.12392.pdf)
-
-## Cite As
-
-```
-@article{krishna2020whence,
-  title={Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE},
-  author={Krishna, Rahul and Nair, Vivek and Jamshidi, Pooyan and Menzies, Tim},
-  journal={IEEE Transactions on Software Engineering},
-  year={2020},
-  publisher={IEEE}
-}
-```
 
 ## Authors
 
