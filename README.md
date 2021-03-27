@@ -40,3 +40,8 @@ We use readelf as an example
 
 ### Tested programs
 We provide 10 real world programs and training datasets for reproduce our results.
+
+### Contant
+Feel free to send me email about MTFuzz. dongdong at cs.columbia.edu
+
+
