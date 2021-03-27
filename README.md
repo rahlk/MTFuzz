@@ -1,5 +1,6 @@
 # MTFuzz: Fuzzing with a Multi-Task Neural Network
-
+### Paper link
+https://dl.acm.org/doi/pdf/10.1145/3368089.3409723
 ### Framework
 ![image](https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png)
 
